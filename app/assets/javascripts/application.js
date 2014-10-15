@@ -13,4 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require polymer/polymer
+//= require platform/platform
 //= require_tree .

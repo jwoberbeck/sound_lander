@@ -1,0 +1,9 @@
+{
+  "name": "sound_lander",
+  "dependencies": {
+    "polymer": "polymer/polymer#~0.4.2",
+    "core-elements": "polymer/core-elements#~0.4.2",
+    "paper-elements": "polymer/paper-elements#~0.4.2",
+    "roboto-fontface": "~0.2.4"
+  }
+}
